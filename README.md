@@ -5,8 +5,4 @@ Open "index.html" to start playing!
 
 or
 
-Access https://timer00.github.io/presentation-game/ to play online!
-
----
-permalink: /index.html
----
+Access https://timer00.github.io/presentation-game/index.html to play online!
