@@ -1,3 +1,4 @@
+![Cover image](https://i.imgur.com/X28hSUh.png)
 # presentation-game
 Game developed to showcase a school project.
 
